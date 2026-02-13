@@ -1,0 +1,7 @@
+{
+  "name": "Cabina del Tiempo AI",
+  "description": "Viaja a través de la historia con IA. Sube tu foto, analizamos tu estilo y te transportamos a épocas épicas usando Gemini 2.5 y 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
